@@ -1,2 +1,3 @@
 # YOLOv5
-how to use yolo and how to train 
+how to use yolo
+train on colleceted dataset
